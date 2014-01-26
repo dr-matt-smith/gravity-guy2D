@@ -28,7 +28,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="212" selection-start="367" selection-end="367" vertical-scroll-proportion="0.096525095" vertical-offset="0" max-vertical-offset="777">
+            <state line="12" column="72" selection-start="734" selection-end="734" vertical-scroll-proportion="0.25096524" vertical-offset="0" max-vertical-offset="777">
               <folding />
             </state>
           </provider>
@@ -115,6 +115,19 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -179,7 +192,7 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="212" selection-start="367" selection-end="367" vertical-scroll-proportion="0.096525095" vertical-offset="0" max-vertical-offset="777">
+        <state line="12" column="72" selection-start="734" selection-end="734" vertical-scroll-proportion="0.25096524" vertical-offset="0" max-vertical-offset="777">
           <folding />
         </state>
       </provider>
