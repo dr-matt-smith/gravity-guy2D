@@ -2,6 +2,7 @@ gravity-guy2D
 =============
 
 Tutorial to introduce Unity game development - gently, learning a 2D workflow for a very simple 2D platform game from scratch
+(yes it's a word document at present - I'll copy PDF versions when I get a chance, and eventually will turn it into an HTML responsive website - but for speed of drafting I'm using the word processor I know best)
 
 acknowledgements
 ================
