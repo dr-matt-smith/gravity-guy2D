@@ -7,6 +7,7 @@ Tutorial to introduce Unity game development - gently, learning a 2D workflow fo
 the files:
 
 * the tutorial document is: gravity_guy_2D.docx
+* the tutorial document (PART 2) is: gravity_guy_2D - part 2.docx
 * the ZIPed Unity project directory is: gg2D_unity_project.zip
 * the ZIPed Unity videos directory is: videos.zip
 * directory 'images' you can ignore - it's just the collection of screenshots used in the tutorial document.
